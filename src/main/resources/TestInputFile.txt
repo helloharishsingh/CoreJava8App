@@ -1,0 +1,3 @@
+Hello , This is java 11 new feature.
+Where we can read the content of file.
+This is a very good feature.
